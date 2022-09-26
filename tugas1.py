@@ -1,0 +1,8 @@
+print("*****************************************")
+print("Tugas 1 Sistem Operasi B")
+print("*****************************************")
+print("Nama : Enzelica Vica Christina")
+print("NPM  : 21083010114")
+print("*****************************************")
+print("Halo Dunia!")
+print("Ini adalah skrip Bash pertamaku di Linux!")
